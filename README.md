@@ -1,4 +1,4 @@
-This notebook offers a path for data preprocessing, grounded on sound concepts from Statistics.
+This notebook offers a path for data preprocessing with Python, grounded on sound concepts from Statistics.
 The structure is the following:
   1. Importing the Data
   2. Descriptive Statistics: Exploring and Visualizing the Data
